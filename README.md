@@ -1,6 +1,4 @@
-# Flutter Tiktok Ui with tiktok unofficial Api
-
-tiktok ui remake with unofficial tiktok web api using flutter  
+# Flutter Tiktok Ui with tiktok Api
  
  # Give the repo ⭐️ for the support :) 
 
